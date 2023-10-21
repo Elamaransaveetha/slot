@@ -153,7 +153,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![WhatsApp Image 2023-10-12 at 09 05 18](https://github.com/Elamaransaveetha/slot/assets/119560403/905fad2b-f5e1-4298-b166-d7d0d6d915ac)
+![WhatsApp Image 2023-10-21 at 09 48 29](https://github.com/Elamaransaveetha/slot/assets/119560403/e2ea1b58-84cc-4414-bb8f-2956e4115687)
 
 ## HTML VALIDATOR
 
